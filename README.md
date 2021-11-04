@@ -6,4 +6,8 @@ A LoRa sender/receiver made for Arduino Uno with the ability to calculate variou
 - Noise Floor (NoF)
 
 Made for the Semtech SX1276 chip.
+
 Libraries Required:https://github.com/sandeepmistry/arduino-LoRa
+
+Made for a final bachelor's degree project
+Hugo Outeiro - Instituto Superior de Engenharia de Lisboa 2021
