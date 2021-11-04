@@ -5,3 +5,5 @@ A LoRa sender/receiver made for Arduino Uno with the ability to calculate variou
 - Received Signal Strength Indicator (Rssi)
 - Noise Floor (NoF)
 
+Made for the Semtech SX1276 chip.
+Libraries Required:https://github.com/sandeepmistry/arduino-LoRa
